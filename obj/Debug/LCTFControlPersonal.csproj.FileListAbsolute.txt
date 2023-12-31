@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\LCTFControlPersonal.exe.config
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\LCTFControlPersonal.exe
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\LCTFControlPersonal.pdb
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.Form1.resources
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.M.resources
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.exe
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.pdb
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\itextsharp.dll
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Administrator\source\repos\LCTFControlPersonal\bin\Debug\itextsharp.xml
+C:\Users\Administrator\source\repos\LCTFControlPersonal\obj\Debug\LCTFControlPersonal.csproj.CopyComplete
